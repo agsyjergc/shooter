@@ -9,7 +9,7 @@ shoot
 
 
 ## SPACE - SHOOT
-##  - LEFT
+## A - LEFT
 ## D - RIGHT
 <img width="862" height="627" alt="Снимок экрана 2026-05-04 083629" src="https://github.com/user-attachments/assets/763fc213-acd7-4dae-a467-822cb4fffa52" />
 
